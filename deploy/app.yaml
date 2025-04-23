@@ -49,7 +49,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: gitex-demo.local
+  - host: c072ac1e3d1f-10-244-4-142-30080.papa.r.killercoda.com
     http:
       paths:
       - path: /
